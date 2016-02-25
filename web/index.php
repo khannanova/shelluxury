@@ -12,6 +12,38 @@
   <link rel="stylesheet" href="css/style.css">
   <script src="//use.typekit.net/ydt3bft.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <!-- Yandex.Metrika counter -->
+  <script type="text/javascript">
+      (function (d, w, c) {
+          (w[c] = w[c] || []).push(function() {
+              try {
+                  w.yaCounter35663250 = new Ya.Metrika({
+                      id:35663250,
+                      clickmap:true,
+                      trackLinks:true,
+                      accurateTrackBounce:true,
+                      webvisor:true
+                  });
+              } catch(e) { }
+          });
+
+          var n = d.getElementsByTagName("script")[0],
+              s = d.createElement("script"),
+              f = function () { n.parentNode.insertBefore(s, n); };
+          s.type = "text/javascript";
+          s.async = true;
+          s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+          if (w.opera == "[object Opera]") {
+              d.addEventListener("DOMContentLoaded", f, false);
+          } else { f(); }
+      })(document, window, "yandex_metrika_callbacks");
+  </script>
+  <noscript><div><img src="https://mc.yandex.ru/watch/35663250"
+    style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+  <!-- /Yandex.Metrika counter -->
+
 </head>
 <body>
   <div class="">
@@ -22,7 +54,8 @@
           <div class="h3 md-h3 col-12">Маникюр в Казани</div>
         </div>
         <div class="col mt3 px1 md-p0 md-m0 col-12 md-col-6">
-          <div class="W40 mx-auto"><img class="BR18" src="img/main.jpg" alt=""></div>
+          <div class="W40 mx-auto"><img class="BR18" src="img/main.jpg" alt="">
+          </div>
 
         </div>
       </div>
@@ -38,7 +71,8 @@
         <br>
         Маникюр это не эксклюзивная услуга. Качественный маникюр — эксклюзивная услуга.
         <br>
-        Записаться можно по Ватсапу +79297269290 и во <a href="http://vk.com/hanna_nova">ВКонтакте</a>.
+        Записаться можно по Ватсапу +79297269290 и во
+        <a href="http://vk.com/hanna_nova">ВКонтакте</a>.
       </div>
     </div>
 
