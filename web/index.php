@@ -100,7 +100,7 @@
         </div>
 
         <div class="h3-5 md-h3 px1">Следите за новыми работами в
-          <a href="https://instagram.com/shelluxury/">Инстаграме</a>
+          <a href="https://instagram.com/shelluxury/">Инстаграме</a>.
           <br>
           <span>
           Записаться можно по Ватсапу +79297269290 и во
