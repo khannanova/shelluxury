@@ -69,7 +69,7 @@
       <div class="px1 h3-5 md-h3">
         Меня зовут Диана Ханнанова. Я нэил-мастер. Опыт работы 2 года.
         Имею 9 дипломов лучших школ ногтевого искусства России.
-        <div class="booking">
+        <div>
           Записаться можно по Ватсапу +79297269290 и во
           <a href="http://vk.com/hanna_nova">ВКонтакте</a>.
         </div>
@@ -101,7 +101,7 @@
         <div class="h3-5 md-h3 px1">Следите за новыми работами в
           <a href="https://instagram.com/shelluxury/">Инстаграме</a>
           <br>
-          <span class="booking">
+          <span>
           Записаться можно по Ватсапу +79297269290 и во
           <a href="http://vk.com/hanna_nova">ВКонтакте</a>.
         </span>
@@ -146,7 +146,7 @@
           <span class="bg-white">Снятие чужой работы</span>
           <span class="right bg-white rouble">200₽</span>
         </div>
-        <div class="booking mt2">
+        <div class="mt2">
           Записаться можно по Ватсапу +79297269290 и во
           <a href="http://vk.com/hanna_nova">ВКонтакте</a>.
         </div>
