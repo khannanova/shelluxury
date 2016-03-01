@@ -67,12 +67,12 @@
         <img class="rounded" src="img/master.jpg" alt="">
       </div>
       <div class="px1 h3-5 md-h3">
-        Меня зовут Диана Ханнанова. Я нэил-мастер.
-        <br>
-        Маникюр это не эксклюзивная услуга. Качественный маникюр — эксклюзивная услуга.
-        <br>
-        Записаться можно по Ватсапу +79297269290 и во
-        <a href="http://vk.com/hanna_nova">ВКонтакте</a>.
+        Меня зовут Диана Ханнанова. Я нэил-мастер. Опыт работы 2 года.
+        Имею 9 дипломов лучших школ ногтевого искусства России.
+        <div class="booking">
+          Записаться можно по Ватсапу +79297269290 и во
+          <a href="http://vk.com/hanna_nova">ВКонтакте</a>.
+        </div>
       </div>
     </div>
 
@@ -100,6 +100,11 @@
 
         <div class="h3-5 md-h3 px1">Следите за новыми работами в
           <a href="https://instagram.com/shelluxury/">Инстаграме</a>
+          <br>
+          <span class="booking">
+          Записаться можно по Ватсапу +79297269290 и во
+          <a href="http://vk.com/hanna_nova">ВКонтакте</a>.
+        </span>
         </div>
       </div>
     </div>
@@ -140,6 +145,10 @@
         <div class="Price overflow-hidden py1">
           <span class="bg-white">Снятие чужой работы</span>
           <span class="right bg-white rouble">200₽</span>
+        </div>
+        <div class="booking mt2">
+          Записаться можно по Ватсапу +79297269290 и во
+          <a href="http://vk.com/hanna_nova">ВКонтакте</a>.
         </div>
       </div>
     </div>
