@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width">
+  <meta property="og:image" content="http://www.shelluxury.club/img/main.jpg">
   <title>Шеллакшери | Маникюр в Казани</title>
   <link rel="shortcut icon" href="img/favicon.png">
   <link
